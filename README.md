@@ -1,9 +1,8 @@
-<a href="https://github.com/basblsolver/manual/wiki"><img src="https://github.com/basblsolver/manual/blob/master/images/BASBL-logo-landscape.png" width="100"></a> manual
+# Manual for <a href="https://github.com/basblsolver/manual/wiki"><img src="https://github.com/basblsolver/manual/blob/master/images/BASBL-logo-landscape.png" width="120"></a>
 
-#### **B**ranch-**A**nd-**S**andwich **B**i**L**evel (`BASBL`) solver for nonconvex bilevel problems
 ============
 
-> For more information, goto `BASBL` manual [wiki-page](https://github.com/basblsolver/manual/wiki)
+> For more information, goto `BASBL` manual's [wiki-page](https://github.com/basblsolver/manual/wiki)
 > or select from the **Table of Contents** below:
 
 * [Introduction](https://github.com/basblsolver/manual/wiki/Introduction)
