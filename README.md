@@ -12,5 +12,5 @@
 * [BASBL Options](https://github.com/basblsolver/manual/wiki/BASBL-Options)
 * [References](https://github.com/basblsolver/manual/wiki/References)
 
-> The formulation of the bilevel test problems, brief analysis and helpful illustrations can be found on related wiki:
-[Test Problems](https://github.com/basblsolver/test-problems/wiki)
+> The formulation of the bilevel test problems, brief analysis and helpful illustrations can be found on the wiki:
+[A Test Set of Nonconvex Bilevel Problems](https://github.com/basblsolver/test-problems/wiki)
