@@ -1,7 +1,5 @@
 # Manual for <a href="https://github.com/basblsolver/manual/wiki"><img src="https://github.com/basblsolver/manual/blob/master/images/BASBL-logo-landscape.png" width="120"></a>
 
-============
-
 > For more information, goto `BASBL` manual's [wiki-page](https://github.com/basblsolver/manual/wiki)
 > or select from the **Table of Contents** below:
 
